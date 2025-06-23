@@ -76,7 +76,7 @@ Nmap done: 1 IP address (1 host up) scanned in 0.97 seconds
 
 *Below is a screenshot of the Nmap Zenmap GUI scan interface.*
 
-![Zenmap GUI Screenshot](path/to/your/screenshot.png)
+![Zenmap GUI Screenshot](./scan_gui.png)
 
 ---
 
